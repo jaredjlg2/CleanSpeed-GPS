@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CleanSpeed</string>
+    <string name="tracking_notification_title">Trip tracking active</string>
+    <string name="tracking_notification_text">CleanSpeed is recording your trip in the background.</string>
+</resources>
